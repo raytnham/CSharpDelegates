@@ -60,3 +60,5 @@ This statement achieves the same result as what we did in the previous section.
 <a href="https://www.lynda.com/C-tutorials/C-Delegates-Events-Lambdas/370499-2.html">Lynda.com - C#: Delegates, Events and Lambdas - by Joe Marini</a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/">Microsoft - Delegates (C# Programming Guide)</a>
 <a href="https://www.tutorialspoint.com/csharp/csharp_delegates.htm">TutorialPoints - C# Delegates</a>
+
+<em><strong>Read more:</strong></em> <a href="https://raydeveloperonline.com/2018/02/19/cs-delegates/" rel="noopener" target="_blank">Ray's Blog - C# Delegates</a>
